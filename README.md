@@ -1,4 +1,4 @@
-# SAP Search Provider Coveo Search Services Extension
+# Coveo Search Provider SAP Commerce Extension
 this extension provides configuration of integration with SAP Commerce (based on apiregistry) and implements a client that handles communication between SAP Commerce and Coveo
 
 ## Installation
