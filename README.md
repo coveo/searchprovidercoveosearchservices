@@ -11,6 +11,8 @@ this extension provides configuration of integration with SAP Commerce (based on
    <extension name='searchprovidercoveosearchservices' />
    ```
 
+1. Perform step 1 of the installation guide of [Coveo Push Api client library for java](https://github.com/coveo/push-api-client.java) used in this extension
+
 1. From the root of your project folder, run the following command:
 
    ```bash
