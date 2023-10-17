@@ -23,7 +23,7 @@ this extension provides configuration of integration with SAP Commerce (based on
 
    1. Open the Hybris Administration console at https://localhost:9002/platform/update.
    
-   1. Find and select the checkboxes for `searchprovidercoveosearchservices` extension to create the newly introduced fields.
+   1. Find and select the checkboxes for `searchprovidercoveosearchservices` extension to create the newly coveo search provider.
 
    1. At the top of the page, click the *Update* button.
 
