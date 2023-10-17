@@ -28,4 +28,11 @@ this extension provides configuration of integration with SAP Commerce (based on
    1. Find and select the checkboxes for `searchprovidercoveosearchservices` extension to create the newly coveo search provider.
 
    1. At the top of the page, click the *Update* button.
+  
+## Integrate With Coveo
+
+1. Create [Coveo Org](https://docs.coveo.com/en/185/glossary/coveo-organization)
+2. Create a [Catalog Source](https://docs.coveo.com/en/n8of0593/coveo-for-commerce/create-a-catalog-source)
+3. Create an [API key](https://docs.coveo.com/en/1718/manage-an-organization/manage-api-keys) with privileges to edit the source
+4. 
 
