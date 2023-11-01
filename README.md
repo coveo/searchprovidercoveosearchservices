@@ -36,11 +36,8 @@ The configuration that the extension provides is based upon the [API Registry](h
 
 1. Create a [Catalog Source](https://docs.coveo.com/en/n8of0593)
 
-1. Create an [API key](https://docs.coveo.com/en/1718) with  with the [privilege of editing all sources](https://docs.coveo.com/en/3151/).
-
-   | Service | Privilege | Access level |
-   |---|---|---|
-   | Content | Sources | `Edit all` |
+1. Create an [API key](https://docs.coveo.com/en/1718) with the privileges shown in this article: [Create a Catalog source](https://docs.coveo.com/en/n8of0593/coveo-for-commerce/create-a-catalog-source#required-privileges).
+See the **Edit sources, edit source update schedules, and view the View Metadata page** row in the privileges table.
 
 1. In SAP Backoffice Administration Cockpit, create a Consumed Destination for Coveo:
 
