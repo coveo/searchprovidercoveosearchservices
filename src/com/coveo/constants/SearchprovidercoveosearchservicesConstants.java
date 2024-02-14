@@ -16,5 +16,7 @@ public final class SearchprovidercoveosearchservicesConstants extends GeneratedS
 	}
 
 	// implement here constants used by this extension
-	public static final String COVEO_STREAM_SERVICE_KEY = "CoveoStreamService";
+	public static final String COVEO_REBUILD_STREAM_SERVICE_KEY = "CoveoRebuildStreamService";
+
+	public static final String COVEO_UPDATE_STREAM_SERVICE_KEY = "CoveoUpdateStreamService";
 }
